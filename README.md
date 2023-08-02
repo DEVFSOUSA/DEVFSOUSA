@@ -1,16 +1,16 @@
-### Hi there 👋
+## Olá!!! Eu sou Felipe Sousa ✌️
 
-<!--
-**DEVFSOUSA/DEVFSOUSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fstreetsousa)
 
-Here are some ideas to get you started:
+![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=DEVFSOUSA&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que uso no meu dia
+
+
+ <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+
+
+<div>
+
+👨‍💻 Desenvolvedor Back-End em evolução, apaixonado por transformar ideias em código. Atualmente, estou me aprimorando no universo da programação.
