@@ -13,4 +13,4 @@
 
 <div>
 
-👨‍💻 Desenvolvedor Back-End em evolução, apaixonado por transformar ideias em código. Atualmente, estou me aprimorando no universo da programação.
+👨‍💻 Desenvolvedor Front-End em evolução, apaixonado por transformar ideias em código. Atualmente, estou me aprimorando no universo da programação.
